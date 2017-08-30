@@ -1,16 +1,16 @@
 ## Overview
-In this assignment, you will create a program to analyze weather data, namely precipitation data from the National Centers for Environmental Information. Since the purpose of this assignment is to become familiar with Cloud9 and to start thinking about code organization, you wonâ€™t actually need to write any new code yourself. Instead, you will reorganize a single .cpp file into separate .cpp and .h files.
+In this assignment, you will create a program to analyze weather data, namely precipitation data from the National Centers for Environmental Information. Since the purpose of this assignment is to become familiar with Cloud9 and to start thinking about code organization, you won’t actually need to write any new code yourself. Instead, you will reorganize a single .cpp file into separate .cpp and .h files.
 
 ## Setup
 0. Open Cloud9 and create a new private C++ workspace (you will use this same workspace for all of your assignments).
 1. Clone my WeatherAnalyzer repository from BitBucket into a directory called "cs1440-hw1".
 2. Open a terminal, navigate into the cs1440-hw1 directory, and build the project with the "make" command.
 3. Play with the program to understand how it works. Try running it with the following arguments:
-(no argument)
-* Data/2012-Jan-to-Mar.csv
-* Data/2013-Jan-to-Mar.csv
-* Data/2013-Jan-to-Mar.csv COOP:425186
-* Data/2013-Jan-to-Mar.csv COOP:426414
+  * (no argument)
+  * Data/2012-Jan-to-Mar.csv
+  * Data/2013-Jan-to-Mar.csv
+  * Data/2013-Jan-to-Mar.csv COOP:425186
+  * Data/2013-Jan-to-Mar.csv COOP:426414
 
 
 ## Instructions
